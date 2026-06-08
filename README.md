@@ -26,7 +26,7 @@ O projeto foi desenhado para equilibrar a robustez de um banco de dados relacion
 2. **Carga no Banco (PostgreSQL):** 
    Criação de uma string de conexão via driver `psycopg2` integrada ao SQLAlchemy. O upload da tabela de fatos tratada foi automatizado diretamente através do método `.to_sql()` com a regra `if_exists='append'`.
 3. **Modelagem e Integração Mista (Power BI):** 
-   Conforme documentado nas configurações de fontes de dados do projeto (referência: `image_a70d42.png`), o ecossistema do relatório consome dados diretamente do servidor local PostgreSQL (`nfl_brasil_db`), cruzando-os eficientemente no Power Query com dimensões estratégicas estruturadas em arquivos locais Excel (como dados de buscas, impacto econômico, dados históricos de franquias e Hall of Fame).
+   Conforme documentado nas configurações de fontes de dados do projeto, o ecossistema do relatório consome dados diretamente do servidor local PostgreSQL (`nfl_brasil_db`), cruzando-os eficientemente no Power Query com dimensões estratégicas estruturadas em arquivos locais Excel (como dados de buscas, impacto econômico, dados históricos de franquias e Hall of Fame).
 
 ---
 

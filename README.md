@@ -90,3 +90,10 @@ Para entregar um produto que se distancie de relatórios corporativos frios e ge
 ---
 Desenvolvido por Gabriel Henrique Corrêa Aniceto.
 
+---
+
+## 📊 Painel Interativo
+Você pode navegar e interagir diretamente com o dashboard dinâmico através do link abaixo:
+
+👉 [Clique aqui para acessar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTZmYzg3NmUtZmNiMy00ZGUzLThiNzYtMTlhMGQwMDVmZTQxIiwidCI6IjJiZWRhMDY2LTVlNjQtNDZmNy05OTg3LTE5MDFjZWZiMDAwZSJ9&pageName=3dbe37237b07977ceff9)
+

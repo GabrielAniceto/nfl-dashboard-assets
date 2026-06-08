@@ -36,7 +36,8 @@ O relatório conta com uma seção de KPIs principais unificada no topo de todas
 
 Abaixo, detalha-se a composição analítica de cada uma das 5 telas do projeto:
 
-### 1. Visão Geral 
+### 1. Visão Geral (Referência: Visão Geral.png)
+![Visão Geral](dashboard_screenshots/Visão%20Geral.png)
 Focada em apresentar a evolução macro do esporte no ecossistema brasileiro.
 * **Métricas Principais:** Distribuição geográfica de fãs, audiência por meio de transmissão e a linha do tempo de interesse histórico.
 * **Insights Chave:**
@@ -44,7 +45,8 @@ Focada em apresentar a evolução macro do esporte no ecossistema brasileiro.
   * **Fenômeno Streaming/Alternativo:** A CazéTV (YouTube BR) consolidou-se como o maior meio de transmissão de audiência no país, saltando de **3,0 Milhões em 2024 para 4,2 Milhões de espectadores em 2025**, superando canais tradicionais de TV fechada e aberta.
   * **Evolução Exponencial:** O interesse do brasileiro saltou de apenas 4,5 milhões de pessoas em 2015 para uma projeção incrível de **24,5 milhões de pessoas em 2025**.
 
-### 2. NFL no Brasil 
+### 2. NFL no Brasil (Referência: NFL no Brasil.png)
+![NFL no Brasil](dashboard_screenshots/NFL%20no%20Brasil.png)
 Mapeia o impacto comercial e o histórico de eventos oficiais programados para o país.
 * **Métricas Principais:** Comparativo de impacto econômico contra eventos tradicionais, relação público vs. capacidade dos estádios e termos de busca.
 * **Insights Chave:**
@@ -52,21 +54,25 @@ Mapeia o impacto comercial e o histórico de eventos oficiais programados para o
   * **Geração de Empregos:** O movimento gerou uma média consistente de mais de **12.500 empregos** diretos e indiretos entre os anos de 2024 e 2025.
   * **Expectativa Futura:** A projeção para o *Rio Game 2026* no Maracanã aponta um público esperado de **75K**, aproximando-se do limite máximo de capacidade do estádio (78K).
 
-### 3. Times e Franquias 
+### 3. Times e Franquias (Referência: Times.png)
+![Times e Franquias](dashboard_screenshots/Times.png)
+
 Analisa a popularidade e a performance das equipes do ponto de vista do torcedor nacional.
 * **Métricas Principais:** Ranking de popularidade de buscas na web, histórico de vitórias em temporada regular e maiores detentores de títulos de Super Bowl.
 * **Insights Chave:**
   * **A Maior Torcida:** O **Green Bay Packers** lidera como a maior torcida do país com **12% da preferência**, seguido de perto pelo San Francisco 49ers (11%) e New England Patriots (11%).
   * **Domínio de Engajamento:** Apesar dos Packers terem a maior torcida declarada, o **Kansas City Chiefs lidera o ranking de buscas na web de forma isolada com 415.000 pesquisas**, impulsionado pelo sucesso recente e a presença na mídia de atletas de elite.
 
-### 4. Jogadores e Ícones 
+### 4. Jogadores e Ícones (Referência: Jogadores.png)
+![Jogadores e Ícones](dashboard_screenshots/Jogadores.png)
 Focado no engajamento gerado pelos maiores astros e o legado histórico dos atletas que conquistaram o público brasileiro.
 * **Métricas Principais:** Ranking de jogadores mais populares, detalhamento de recordes e memorial Hall of Fame.
 * **Insights Chave:**
   * **Os Rostos da Liga:** Patrick Mahomes (Quarterback) e Travis Kelce (Tight End), ambos do Kansas City Chiefs, são as figuras de maior engajamento e popularidade no cenário brasileiro atual.
   * **Legado Imortal:** Tom Brady é destacado como o grande pilar de expansão internacional, documentado por seus 7 títulos de Super Bowl, 3x MVP e duas décadas de dominância que pavimentaram a base de fãs atual no Brasil.
 
-### 5. Engajamento Digital 
+### 5. Engajamento Digital (Referência: Engajamento.png)
+![Engajamento Digital](dashboard_screenshots/Engajamento.png)
 Exibe minuciosamente a expansão das redes sociais e os canais de comunicação com maior tração entre os torcedores.
 * **Métricas Principais:** Crescimento de seguidores ano a ano, fatia de participação por plataforma e histórico de redes líderes.
 * **Insights Chave:**
